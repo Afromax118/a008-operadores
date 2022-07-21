@@ -1,0 +1,1 @@
+const pergunta2numeros = Number(prompt())
