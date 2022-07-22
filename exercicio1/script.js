@@ -4,6 +4,8 @@ console.log(numeropar)
 let res = numeropar % 2
 console.log(res)
 
+console.log(typeof numeropar)
+
 // // Sim o padrão é que o resto sempre fica em zero, quando coloco
 // qualquer número par.
 
